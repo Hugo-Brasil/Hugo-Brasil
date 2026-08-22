@@ -2,7 +2,7 @@
 
 - 🙋🏻‍♂️ Olá! Meu nome é Hugo Brasil.
 - 👨🏻‍💻 Sou estudante primeiro-anista de Ciência da Computação.
-- 📚 Estudo no CESUPA e sou da turma CC1TA.
+- 📚 Estudo no CESUPA e sou da turma CC2TA.
 - 🔭 Tenho interesse em Direito Tributário e Tecnologia, IA e Machine Learning, Banco de Dados e Cibersegurança.
 - 🌱 Um objetivo pessoal que tenho para este semestre é ser aprovado.
 
