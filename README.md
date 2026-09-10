@@ -18,8 +18,3 @@ Office:
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)  ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)  ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white)  
 
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hugo-Brasil&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Hugo-Brasil)](https://git.io/streak-stats)
