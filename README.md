@@ -2,9 +2,9 @@
 
 - 🙋🏻‍♂️ Olá! Meu nome é Hugo Brasil.
 - 👨🏻‍💻 Sou estudante primeiro-anista de Ciência da Computação.
-- 📚 Estudo no CESUPA e sou da turma CC2TA.
+- 📚 Estudo no Centro Universitário do Estado do Pará (CESUPA).
 - 🔭 Tenho interesse em Direito Tributário e Tecnologia, IA e Machine Learning, Banco de Dados e Cibersegurança.
-- 🌱 Atualmente estou estudando Java e Python
+- 🌱 Atualmente estou estudando Java e Python.
 
 Redes Sociais:
 
